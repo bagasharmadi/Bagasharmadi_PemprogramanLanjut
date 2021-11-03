@@ -352,3 +352,4 @@ ketentuan yang berbeda.
 [repo-gl]: https://gitlab.com/laymonage/django-template-heroku
 [license]: LICENSE
 # Bagasharmadi_PemprogramanLanjut
+# Bagasharmadi_PemprogramanLanjut
