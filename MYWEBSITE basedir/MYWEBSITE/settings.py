@@ -26,7 +26,7 @@ SECRET_KEY = 'uh@xz+$cxv%y4jp)h6_)clj4#g+*!7=*cl!*#$*_jbc4vfuls1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://git.heroku.com/bagasharmadii.git]
 
 
 # Application definition
